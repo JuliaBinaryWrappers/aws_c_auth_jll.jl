@@ -1,6 +1,6 @@
 name = "aws_c_auth_jll"
 uuid = "2b3700d1-4306-52e2-a478-c162f0c514be"
-version = "0.7.18+0"
+version = "0.7.19+0"
 
 [deps]
 aws_c_cal_jll = "70f11efc-bab2-57f1-b0f3-22aad4e67c4b"
