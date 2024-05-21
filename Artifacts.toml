@@ -1,135 +1,135 @@
 [[aws_c_auth]]
 arch = "aarch64"
-git-tree-sha1 = "ff835e6a20ce2ff3d41bc322bbc186ea5ee8941e"
+git-tree-sha1 = "fab868af1e09576c5f28f0f749f060d98e5629e0"
 os = "macos"
 
     [[aws_c_auth.download]]
-    sha256 = "9bf123f5fb97353c9ab5ac94cd92be78744b2cbb7170de6b7635f3b140507f92"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.aarch64-apple-darwin.tar.gz"
+    sha256 = "607ecfb9066c5fa4dd25c982f9e7db715140432ee682b247fd9b6f5ae2ad5860"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.aarch64-apple-darwin.tar.gz"
 [[aws_c_auth]]
 arch = "aarch64"
-git-tree-sha1 = "d7ed529f9a578a20cb09134d9f945509df3fe847"
+git-tree-sha1 = "cbdbcde5785b25bc27ea9c5c392ffa4982ac3f3a"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "c9cdde0adb2b75f3919c690357f5dfb8cfb3a024d9160c50d65664c0df54db61"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.aarch64-linux-gnu.tar.gz"
+    sha256 = "69f71bb6cc0bbdde36b488122ad6cb0dc7282139ca9cf237d1a30d48df279dae"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.aarch64-linux-gnu.tar.gz"
 [[aws_c_auth]]
 arch = "aarch64"
-git-tree-sha1 = "1bc363d991600e126c4eb9a55144c0908e2ec09d"
+git-tree-sha1 = "d772b35ec953e1ccc13edf9887b2e5dfad7c4c24"
 libc = "musl"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "f0e85b16c9b7038e80ce694bd2ea86a59c1fa0aac00fb78e033b7dbd80a9a1a0"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.aarch64-linux-musl.tar.gz"
+    sha256 = "6797bd7708f3b54d68fed46a4ea5ee857310c21d9c457718f776dc58c96a436c"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.aarch64-linux-musl.tar.gz"
 [[aws_c_auth]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6e4a40048ded2efe25be560b2b5138133774b345"
+git-tree-sha1 = "4f43ae1244356aefb057d4428e71634c3d97df00"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "b420e412ff2296041de3f1cba6d48ec220cbb2327d69a0f8fe24d62d1362f178"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "3dfbdce884810eb56df656a50a47e0de2bda66568e3fcd43b4553844d19d9d32"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_auth]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f958024dcfefb7be3b031e048b6561cc01e4d79f"
+git-tree-sha1 = "7c28d77d329cb8cfe144a36bbf97cc4e1ef4ded2"
 libc = "musl"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "52f1b5c76bd6594b27f6eb615da60b3394b892dab9e3e7877e6c7ef56558ed4b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d7ec7fac3b9df375481d75c5c3f454b676cbff2612c0fa16155ffb814c33d1df"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_auth]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "67c47a21fe7947624367c70edeb49e77f59b82c0"
+git-tree-sha1 = "e80974d790b5741b41dbc422e51e571489dc414e"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "ba0df96684f5ef9b9417fd3136a22df67e457a174da98bbfc7e7d117253896e7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "f250682cd7d35a7c6d6a12a349719ad4476d1a9a538767c23bf430e83524f0c7"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_auth]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8008f83ff9fdd4e5648fb5e34b73c4fff0bb045f"
+git-tree-sha1 = "08165455440fc76c2cbb65e7fe59b8f57cb61745"
 libc = "musl"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "85d05c9d891642ab5f34233b19ea04182a23315ae8ffddb78a187618d33fbad3"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e0b81c1feb3befe5ee147ee7eea6e9154294d91d80930b047696adf4d7db6454"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_auth]]
 arch = "i686"
-git-tree-sha1 = "94c4e30049857851ca6c3309904df0f7632a9ff8"
+git-tree-sha1 = "1063c8efe37559fd9611aeba2edbc5fee3d0624d"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "e8a01ac083586cbb31812bc8ec07b63b4365487a3e364319510986bca09ec21b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.i686-linux-gnu.tar.gz"
+    sha256 = "cbd5fbfadb682a11bd3c4675cfe261e61d619545def17dbdb1eef9a17ac65256"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.i686-linux-gnu.tar.gz"
 [[aws_c_auth]]
 arch = "i686"
-git-tree-sha1 = "c1bfa4c39fa8142681fb2e59b2198378ca8b9132"
+git-tree-sha1 = "ea4243e380c57b72258cbdbaac0c4a61f6657efb"
 libc = "musl"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "e7a89dd00070779d90b64eb3d6a5d3d7aa847b39c7b54d30fbeecd0ba035b8f7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.i686-linux-musl.tar.gz"
+    sha256 = "acb7d963b6aa500cdb2f638ba7deb31ef7fde02e82649e572ffebd5ed9a00505"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.i686-linux-musl.tar.gz"
 [[aws_c_auth]]
 arch = "powerpc64le"
-git-tree-sha1 = "d4c0d4f5342add08d0591cac46f6bac4b09f105b"
+git-tree-sha1 = "c62497234faf8983c30346b47d898f5b08e32d85"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "00c2ec5f5fc7b7bcb7fc282f85b2ab63968c465a753b6c4c4269b729395627cd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "dcb222e47dda2f593ca82902b7576fbe0feee4ab039e6217ae80dfd18118b5bf"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_auth]]
 arch = "x86_64"
-git-tree-sha1 = "868b313f87737241ba37d68a3a075bf7fb968409"
+git-tree-sha1 = "21c15024560c31d82a73a450a022ad21e32a1a02"
 os = "macos"
 
     [[aws_c_auth.download]]
-    sha256 = "6f6c1a12ad925de7803ed1ed99b2030447290379c83e7e607c627d57f629d6b9"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.x86_64-apple-darwin.tar.gz"
+    sha256 = "c628e93e93ced2a924a96fe8dff45e25c366264e6ba5ef3c193900e0b32619d1"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.x86_64-apple-darwin.tar.gz"
 [[aws_c_auth]]
 arch = "x86_64"
-git-tree-sha1 = "809063e04d587bda4df55d533c4a4c42372b5e11"
+git-tree-sha1 = "6bd86bbf894859c698c0b79df6d76fe8bf6aaca8"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "94e2f62ae54aafd52b24fa698a279d92f3b47ccc6e9b4381c96e793185b202ae"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.x86_64-linux-gnu.tar.gz"
+    sha256 = "e0299249d2c9c9bd6e30b5c44aefbff073f66b92f04f226b8e70538727d232c6"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.x86_64-linux-gnu.tar.gz"
 [[aws_c_auth]]
 arch = "x86_64"
-git-tree-sha1 = "32aac0381a29f06d911a2e1c61a0d3f1687cd191"
+git-tree-sha1 = "8dff3e4186a85f113e20d864a038d6906e583dbe"
 libc = "musl"
 os = "linux"
 
     [[aws_c_auth.download]]
-    sha256 = "f15147fc95e8204eba89849ad674a8f133c82432c5231a2053e01de2ba7f36a2"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.x86_64-linux-musl.tar.gz"
+    sha256 = "43a8913f82640b209d0ae79953a5b2c524392019daace948b52f8001a20a5520"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.x86_64-linux-musl.tar.gz"
 [[aws_c_auth]]
 arch = "x86_64"
-git-tree-sha1 = "85a7db8b30e5be72f362e9753042ad599fe4d50b"
+git-tree-sha1 = "f08c823f683322da8a62a239a95b9c3767b06b77"
 os = "freebsd"
 
     [[aws_c_auth.download]]
-    sha256 = "783c507bf19c5f5f6f8dab2974089df544095b4b4c8df9bc971e58333046fbb9"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ce5a5c32c75fd79d23a6c4373c739e055bf430f6ed4c13928c87c40be129e19a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_auth]]
 arch = "x86_64"
-git-tree-sha1 = "ae83db013c24798e30c8ba6868abd0972292a5e6"
+git-tree-sha1 = "179258ded94a140ea7d7d2e0e6a8596e7f89327e"
 os = "windows"
 
     [[aws_c_auth.download]]
-    sha256 = "29b1b275c1d802e10cd54f8731d8559ae0d79ed3980087d479283ed79e24d586"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.19+0/aws_c_auth.v0.7.19.x86_64-w64-mingw32.tar.gz"
+    sha256 = "3edbd3ebd97df5c0edc59aa91e92d4d13bdae004f93fb7934987452a8d3d793d"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_auth_jll.jl/releases/download/aws_c_auth-v0.7.22+0/aws_c_auth.v0.7.22.x86_64-w64-mingw32.tar.gz"
