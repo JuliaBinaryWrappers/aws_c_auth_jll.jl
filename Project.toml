@@ -1,6 +1,6 @@
 name = "aws_c_auth_jll"
 uuid = "2b3700d1-4306-52e2-a478-c162f0c514be"
-version = "0.7.25+0"
+version = "0.7.26+0"
 
 [deps]
 aws_c_cal_jll = "70f11efc-bab2-57f1-b0f3-22aad4e67c4b"
@@ -15,6 +15,6 @@ JLLWrappers = "1.2.0"
 julia = "1.6"
 aws_c_cal_jll = "0.7.1"
 aws_c_http_jll = "0.8.1"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
 aws_c_sdkutils_jll = "0.1.12"
